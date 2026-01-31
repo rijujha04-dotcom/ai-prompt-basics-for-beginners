@@ -1,4 +1,4 @@
-# ai-prompt-basics-for-non-technical beginner
+# AI-prompt-basics-for-non-technical beginner
 This project is created to explain the basics of Generative AI and prompt writing in simple language for non-technical beginners.
 The goal of this project is to help anyone understand how AI works, how to give better instructions (prompts), and what limitations AI has.
 ## What is Generative AI?
